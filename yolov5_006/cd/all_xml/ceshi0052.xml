@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cd</folder>
+	<filename>ceshi0052.jpg</filename>
+	<path>F:\yolov_module\data\cd\ceshi0052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>95</ymin>
+			<xmax>256</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

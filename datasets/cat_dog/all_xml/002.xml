@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data01</folder>
+	<filename>002.png</filename>
+	<path>F:\yolov_module\data\data01\002.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>19</ymin>
+			<xmax>252</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

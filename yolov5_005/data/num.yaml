@@ -1,0 +1,15 @@
+# Default dataset location is next to /yolov5:
+#   /parent_folder
+#     /mycoco
+#     /yolov5
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ../num/images/train/
+val: ../num/images/val/
+
+# number of classes
+nc: 9
+
+# class names
+names: ['1','2','3','4','5','6','7','8','9' ]
